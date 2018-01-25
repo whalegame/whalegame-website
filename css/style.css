@@ -1,9 +1,6 @@
 body{
     font-family: "Raleway", sans-serif;
 }
-.center{
-    text-align: center;
-}
 .container{
     background-color: white;
 }
@@ -27,6 +24,10 @@ body{
 }
 #content > h2{
     font-family: 'Playfair Display', serif;
+    font-size: 25px;
+}
+.spades{
+    text-align: center;
     font-size: 25px;
 }
 #footer{
