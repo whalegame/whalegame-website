@@ -1,0 +1,40 @@
+body{
+    font-family: "Raleway", sans-serif;
+}
+.container{
+    background-color: white;
+}
+#header{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+#header > h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 70px;
+    margin-bottom: 50px;
+}
+#logo_header{
+    width: 70px;
+    float: left;
+    margin-right: 10px;
+    padding-top:10px;
+}
+#content {
+    padding-bottom: 20px;
+}
+#content > h2{
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+}
+#footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #0f0f0f;
+    color:white;
+}
+#footer > span{
+    font-size: 11px;
+}
+.footer-logo{
+    width:20px;
+}
